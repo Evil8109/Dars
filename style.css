@@ -1,0 +1,102 @@
+.box2{
+width: 270px;
+height: 200px;
+margin-left: 50px;
+}
+.box{
+    display: flex;
+    justify-content: space-around
+}
+.box3{
+    width: ;
+    height: ;
+}
+
+.rasm{
+    width: 270px;
+    height: 200px;
+}
+
+.bos{
+    border-radius: 5px;
+    margin-left: 268px;
+    border-color: green;
+    background-color:green ;
+}
+
+.yozuv{
+    text-align: center;
+}
+
+.go{
+    width: 200px;
+    height: 200px;
+    border: 3px;
+    border-radius: 3px;
+    border-color: rgb(0, 0, 0);
+}
+
+.go1{
+    width: 200px;
+    height: 200px;
+    border: 3px;
+    border-radius: 3px;
+    border-color: rgb(0, 0, 0);
+}
+
+.go2{
+    width: 200px;
+    height: 200px;
+    border: 3px;
+    border-radius: 3px;
+    border-color: rgb(0, 0, 0);
+}
+
+.go3{
+    width: 200px;
+    height: 200px;
+    border: 3px;
+    border-radius: 3px;
+    border-color: rgb(0, 0, 0);
+}
+
+.go4{
+    width: 200px;
+    height: 200px;
+    border: 3px;
+    border-radius: 3px;
+    border-color: rgb(0, 0, 0);
+}
+
+.bosh{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.gg{
+    width: 360px;
+    height: 240px;
+    margin: 0 auto;
+}
+
+.gg1{
+text-align: center;
+}
+
+.qwerty{
+    width: 500px;
+    height: 350px;
+    margin: 0 auto;
+}
+
+.tt{
+    width: 500px;
+    height: 350px;
+}
+.qw{
+opacity: (0,7);
+margin: 0 auto;
+}
+
+
